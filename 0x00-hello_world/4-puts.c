@@ -5,11 +5,8 @@
  * this program prints \"programming is like building a multilingual puzzle
  * returns: 
  * */
-int main() {
-
+int main(void) {
 	   puts("\"Programming is like building a multilingual puzzle");
-
 	      return 0;
-
 }
 
