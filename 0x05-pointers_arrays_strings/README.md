@@ -1,1 +1,1 @@
-**Function pointer**
+This is pointer c code
